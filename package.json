@@ -1,0 +1,11 @@
+{
+  "name": "js-procs",
+  "version": "0.0.0-dev",
+  "main": "lib/index.js",
+  "repository": "git@github.com:elierotenberg/js-procs.git",
+  "author": "Elie Rotenberg <elie@rotenberg.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^0.22.0"
+  }
+}
